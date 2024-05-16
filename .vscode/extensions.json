@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "csstools.postcss",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens"
+  ]
+}
